@@ -1,8 +1,10 @@
 "Interactive Store and Product Performance Dashboard - Tableau"
 
+Data Sources: Excel (Data Visualization.xlsx)
+
 Description:
 A detailed Tableau dashboard showcasing store-level and product-level performance insights through interactive visualizations. This project highlights key metrics such as sales, revenue, and product distribution across multiple locations, designed for data-driven decision making.
-Data Sources: Excel (Data Visualization.xlsx)
+
 
 1. Project Overview
 This Tableau dashboard provides a comprehensive analysis of store and product performance across multiple locations. It offers insights into:
